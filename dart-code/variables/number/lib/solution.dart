@@ -4,4 +4,4 @@
 /// 
 
 // Tuliskan kode Anda di bawah ini
-num a = 2;
+num a = 2.3;
