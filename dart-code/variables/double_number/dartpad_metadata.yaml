@@ -2,7 +2,7 @@ name: A Dart Exercise
 mode: dart
 files:
   - name: main.dart
-    alternatePath: lib/int_number.dart
+    alternatePath: lib/double_number.dart
   - name: solution.dart
     alternatePath: lib/solution.dart
   - name: test.dart
