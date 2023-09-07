@@ -1,6 +1,6 @@
 void main() {
   List<String> failArray = [];
-  final int aResult = 1;
+  const int aResult = 1;
 
   if (a != aResult) {
     failArray.add("Variabel a tidak bernilai 1");
