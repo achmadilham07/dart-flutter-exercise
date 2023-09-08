@@ -1,0 +1,9 @@
+name: A Dart Exercise
+mode: dart
+files:
+  - name: main.dart
+    alternatePath: lib/arithmetic.dart
+  - name: solution.dart
+    alternatePath: lib/solution.dart
+  - name: test.dart
+    alternatePath: test/test.dart
