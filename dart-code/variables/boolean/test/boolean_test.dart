@@ -2,7 +2,7 @@ import 'package:test/test.dart';
 import 'package:boolean/solution.dart' as solution;
 
 void main() {
-  group("string", () {
+  group("boolean", () {
     test("thisIsFalse is bool", () {
       expect(solution.thisIsFalse.runtimeType, bool);
     });
